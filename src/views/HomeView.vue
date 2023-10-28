@@ -20,23 +20,16 @@ import Sidebar from "../components/Sidebar.vue";
       <p class="text-lg font-semibold">Misi</p>
       <ul>
         <li>
-          1. 1.	Melakukan perbaikan sistem kinerja aparatur pemerintahan desa guna meningkatkan kualitas pelayanan kepada masyarakat;
+          1. Melakukan perbaikan sistem kinerja aparatur pemerintahan desa guna meningkatkan kualitas pelayanan kepada masyarakat;
         </li>
         <li>
-          2. Meningkatkan dan memantapkan system perencanaan pembangunan desa
-          melalui pengoptimalan mekanisme musyawarah pembangunan desa dengan
-          melibatkan seluruh steackholder yang ada;
+          2. Menyelenggarakan pemerintahan yang baik, bebas dari bentuk-bentuk penyelewengan;
         </li>
         <li>
-          3. Membuat skala prioritas untuk kegiatan-kegiatan pembangunan yang
-          akan dilaksanakan baik pembangunan fisik atau non fisik, seperti
-          infrastruktur, perekonomian, keagamaan, Pendidikan dan kesehatan;
+          3. Menyelenggarakan urusan pemerintahan desa secara terbuka dan bertanggungjawab sesuai dengan peraturan perundang-undangan;
         </li>
         <li>
-          4. Meningkatkan kemampuan dan peran serta aktif masyarakat dalam
-          mengelola pembangunan berkelanjutan secara efisisen dan efektif dengan
-          memanfaatkan potensi sumber daya yang ada, baik sumber daya alam
-          maupun sumberdaya manusia;
+          4. 4.	Meningkatkan perekonomian masyarakat berbasis pertanian, peternakan, perikanan melalui kelompok dan UKM yang produktif  sesuai dengan potensi Desa dan peluang pasar;
         </li>
         <li>
           5. Meningkatkan kemampuan dan pemberdayaan Lembaga-lembaga
