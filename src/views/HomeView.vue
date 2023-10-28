@@ -13,11 +13,11 @@ import Sidebar from "../components/Sidebar.vue";
 
     <div class="flex-1 p-10">
       <p class="text-3xl font-semibold">Visi & Misi Desa Karacak</p>
-      <p class="text-lg font-semibold">Visi</p>
+      <p class="text-lg font-semibold">Visi Desa Karacak</p>
       <p>
         “Menciptakan Tata Kelola Pemerintahan Yang Amanah, Jujur, Transparan dan Bertanggungjawab dalam Rangka Mewujudkan Masyarakat Desa Karacak Yang Maju, Adil, Aman, dan Mandiri”
       </p>
-      <p class="text-lg font-semibold">Misi</p>
+      <p class="text-lg font-semibold">Misi< Desa Karacak/p>
       <ul>
         <li>
           1. Melakukan perbaikan sistem kinerja aparatur pemerintahan desa guna meningkatkan kualitas pelayanan kepada masyarakat;
