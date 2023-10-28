@@ -35,7 +35,7 @@ import Sidebar from "../components/Sidebar.vue";
           5. Menyelenggarakan pelatihan dan penyuluhan bagi kelompok pertanian, peternakan, perikanan, UKM dan bagi masyarakat pada umumnya sesuai dengan kebutuhan;
         </li>
         <li>
-          6. 6.	Membentuk Badan Usaha Milik Desa (BUMDes) dan unit-unitnya sebagai lembaga yang mengelola produktivitas usaha masyarakat;
+          6. Membentuk Badan Usaha Milik Desa (BUMDes) dan unit-unitnya sebagai lembaga yang mengelola produktivitas usaha masyarakat;
         </li>
         <li>
           7. Menjalin kerja sama dengan semua pihak dalam rangka peningkatan mutu kesejahteraan masyarakat;
@@ -47,7 +47,7 @@ import Sidebar from "../components/Sidebar.vue";
           9. Mengembalikan fungsi organisasi-organisasi masyarakat Desa Karacak untuk membantu pemerintah Desa dalam penyelenggaraan Pemerintahan atas dasar kepentingan masyarakat pada umumnya;
         </li>
         <li>
-          10. 10.	Mengorganisir kaum muda Desa Karacak  dan meningkatkan perannya sebagai kader pembangunan dan kader pemimpin masa depan melalui Karang Taruna.
+          10. Mengorganisir kaum muda Desa Karacak  dan meningkatkan perannya sebagai kader pembangunan dan kader pemimpin masa depan melalui Karang Taruna.
         </li>
       </ul>
     </div>
