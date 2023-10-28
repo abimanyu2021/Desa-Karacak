@@ -20,9 +20,7 @@ import Sidebar from "../components/Sidebar.vue";
       <p class="text-lg font-semibold">Misi</p>
       <ul>
         <li>
-          1. Mengembangkan system Pemerintahan Desa yang bersih dan profesional
-          serta berorientasi pada pelayanan publik dengan prinsif kerja ikhlas,
-          lakukan sekarang dan siap turun ke lapangan;
+          1. 1.	Melakukan perbaikan sistem kinerja aparatur pemerintahan desa guna meningkatkan kualitas pelayanan kepada masyarakat;
         </li>
         <li>
           2. Meningkatkan dan memantapkan system perencanaan pembangunan desa
