@@ -29,37 +29,25 @@ import Sidebar from "../components/Sidebar.vue";
           3. Menyelenggarakan urusan pemerintahan desa secara terbuka dan bertanggungjawab sesuai dengan peraturan perundang-undangan;
         </li>
         <li>
-          4. 4.	Meningkatkan perekonomian masyarakat berbasis pertanian, peternakan, perikanan melalui kelompok dan UKM yang produktif  sesuai dengan potensi Desa dan peluang pasar;
+          4. Meningkatkan perekonomian masyarakat berbasis pertanian, peternakan, perikanan melalui kelompok dan UKM yang produktif  sesuai dengan potensi Desa dan peluang pasar;
         </li>
         <li>
-          5. Meningkatkan kemampuan dan pemberdayaan Lembaga-lembaga
-          kemasyarakatan yang ada didesa atau lebih mendinamisasi dan mendukung
-          seluruh proses pembangunan;
+          5. Menyelenggarakan pelatihan dan penyuluhan bagi kelompok pertanian, peternakan, perikanan, UKM dan bagi masyarakat pada umumnya sesuai dengan kebutuhan;
         </li>
         <li>
-          6. Mendorong majunya Pendidikan formal maupun nonformal seperti
-          pesantren, LPK, diklat serta penyuluhan pertanian yang mudah diakses
-          dan dinikmati seluruh warga masyarakat, guna menghasilkan insan
-          intelektual, berakhlak mulia, inovatif dan entrepreneur;
+          6. 6.	Membentuk Badan Usaha Milik Desa (BUMDes) dan unit-unitnya sebagai lembaga yang mengelola produktivitas usaha masyarakat;
         </li>
         <li>
-          7. Menyalurkan segala bentuk bantuan dari Pemerintah Kabupaten,
-          Provinsi dan Pusat sesuai dengan peruntukannya dan mencegah terjadinya
-          penyimpangan dan kebocoran;
+          7. Menjalin kerja sama dengan semua pihak dalam rangka peningkatan mutu kesejahteraan masyarakat;
         </li>
         <li>
-          8. Menjalin sinergitas dengan instansi atau Lembaga terkait dan pihak
-          swasta guna optimalisasi suatu tujuan lebih baik dan lebih maksimal;
+          8. Membangun pola kehidupan masyarakat yang sehat melalui peningkatan kualitas kegiatan posyandu balita, posyandu lansia, kebersihan lingkungan secara umum dan pembangunan rumah tidak layak huni berdasarkan skala prioritas;
         </li>
         <li>
-          9. Responsive dan aspiratif atas segala bentuk kebutuhan atau
-          keinginan dan permasalahan yang terjadi ditengah masyarakat yang
-          majemuk dan dinamis;
+          9. Mengembalikan fungsi organisasi-organisasi masyarakat Desa Karacak untuk membantu pemerintah Desa dalam penyelenggaraan Pemerintahan atas dasar kepentingan masyarakat pada umumnya;
         </li>
         <li>
-          10. Membina dan memantapkankehidupan gotong royongsebagai basis dan
-          modal dasar pembangunan desa, yang pada hakikatnyajuga merupakan
-          karakter dasar dari masyarakat desa dan juga bangsa Indonesia.
+          10. 10.	Mengorganisir kaum muda Desa Karacak  dan meningkatkan perannya sebagai kader pembangunan dan kader pemimpin masa depan melalui Karang Taruna.
         </li>
       </ul>
     </div>
