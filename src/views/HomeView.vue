@@ -17,7 +17,7 @@ import Sidebar from "../components/Sidebar.vue";
       <p>
         “Menciptakan Tata Kelola Pemerintahan Yang Amanah, Jujur, Transparan dan Bertanggungjawab dalam Rangka Mewujudkan Masyarakat Desa Karacak Yang Maju, Adil, Aman, dan Mandiri”
       </p>
-      <p class="text-lg font-semibold">Misi Desa Karacak</p>
+      
       <ul>
         <li>
           1. Melakukan perbaikan sistem kinerja aparatur pemerintahan desa guna meningkatkan kualitas pelayanan kepada masyarakat;
